@@ -13,7 +13,7 @@ I was in charge of implementing the game main physics and cheat mechanics as wel
 
 ## The setup:
 
-!(IMG_20181213_173818.jpg)
+![IMG_20181213_173818.jpg]
 
 ## The book:
 
