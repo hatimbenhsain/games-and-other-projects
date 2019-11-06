@@ -15,6 +15,8 @@ I was in charge of implementing the game main physics and cheat mechanics as wel
 
 ![](IMG_20181213_173818.jpg)
 
+![](IMG_20181213_182325.jpg)
+
 ## The book:
 
 ![](IMG_20181214_125351.jpg)
@@ -25,4 +27,3 @@ I was in charge of implementing the game main physics and cheat mechanics as wel
 
 ![](IMG_20181214_125408.jpg)
 
-![](IMG_20181213_182325.jpg)
