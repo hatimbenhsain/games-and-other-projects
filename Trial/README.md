@@ -8,4 +8,19 @@ As part of the game's presentation, we installed a desk that simulated a child's
 
 I was in charge of implementing the game main physics and cheat mechanics as well as the second level. My partner made the first level.
 
-Photos:
+# Photos:
+
+
+## The setup:
+
+!(IMG_20181213_173818.jpg)
+
+## The book:
+
+!(IMG_20181214_125351.jpg)
+
+!(IMG_20181214_125358.jpg)
+
+!(IMG_20181214_125403.jpg)
+
+!(IMG_20181214_125408.jpg)
