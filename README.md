@@ -12,7 +12,7 @@ The projects I am currently hosting here are:
 
 # Other Portfolios and Social Accounts:
 
-(https://soundcloud.com/hatim-benhsain)[Soundcloud Account]
+[https://soundcloud.com/hatim-benhsain](Soundcloud Account)
 
 (https://www.instagram.com/hatimb00/)[Instagram Art Account]
 
