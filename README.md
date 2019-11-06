@@ -12,8 +12,8 @@ The projects I am currently hosting here are:
 
 # Other Portfolios and Social Accounts:
 
-[https://soundcloud.com/hatim-benhsain](Soundcloud Account)
+[Soundcloud Account](https://soundcloud.com/hatim-benhsain)
 
-(https://www.instagram.com/hatimb00/)[Instagram Art Account]
+[Instagram Art Account](https://www.instagram.com/hatimb00/)
 
-(https://www.linkedin.com/in/hatim-benhsain-b7a426175/)[LinkedIn Account]
+[LinkedIn Account](https://www.linkedin.com/in/hatim-benhsain-b7a426175/)
