@@ -8,7 +8,7 @@ A game where you play as a spider. The first part of the game is a descent throu
 
 I made the game using Processing and the Box2D library. The code for the platforms was taken from Daniel Shiffman's Nature of Code, but the rest was me. I composed the sountrack on Logic Pro X using soundfonts from EarthBound and Chrono Trigger and the Magical 8bit Plug from YMCK. I communicated information from Processing to my Max patch to control the soundtrack using the oscP5 library.
 
-During the development, I also tried teaching the spider to move efficiently using machine learning, but I didn't have time to go very far in that direction.
+During the development, I also tried teaching the spider to move efficiently using machine learning, but I didn't have time to go very far in that direction. The fallen, the "enemies" in the game were initially glitches in the spider's movements that I decided looked too cool to leave out.
 
 # photos
 
