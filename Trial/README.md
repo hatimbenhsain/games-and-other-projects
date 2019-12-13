@@ -2,7 +2,7 @@
 
 [Download link for the game](https://drive.google.com/open?id=1h-pPnjZvz_EUb7Aays-nSfl0Al5pnUT4)
 
-[https://github.com/navyasuri/trial](Repo with the actual code)
+[Repo with the actual code](https://github.com/navyasuri/trial)
 
 A game disrupting the digital and analog worlds, where cheating is a valid part of the play experience. The game is a platformer that uses music from the Legend of Zelda series and assets from the Unity marketplace. It was inspired from me and my partner's childhood memories of looking up cheat codes online and noting them down to play around with. The game was presented as part of the Interactive Media showcase at the end of Fall 2018 in NYU Abu Dhabi.
 
