@@ -11,3 +11,18 @@ I made the game using Processing and the Box2D library. The code for the platfor
 During the development, I also tried teaching the spider to move efficiently using machine learning, but I didn't have time to go very far in that direction.
 
 # photos
+
+
+![](spiderDna.png)
+
+
+![](fallen.png)
+
+
+![](stuck.png)
+
+
+![](stillThere.png)
+
+
+![](spiderWalk.png)
