@@ -1,6 +1,6 @@
 # spiderVenture
 
-[A full playthrough](https://drive.google.com/file/d/1Sy90xKs5bfgtmEPUQB37OB3JtGD3QXBm/view?usp=sharing)
+[A full playthrough video](https://drive.google.com/file/d/1Sy90xKs5bfgtmEPUQB37OB3JtGD3QXBm/view?usp=sharing)
 
 [A medley of the soundtrack I composed](https://soundcloud.com/hatim-benhsain/spider-medley)
 
