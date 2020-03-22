@@ -11,6 +11,4 @@ A sound toy. Type letters to hear them every four beats, press ctrl+i to make th
 # photos
 
 
-![](screenshot1.png)
-![](screenshot2.png)
-![](screenshot3.png)
+![](screenshot1.png)![](screenshot2.png)![](screenshot3.png)
