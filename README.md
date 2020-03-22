@@ -4,21 +4,26 @@ A portfolio repository where I host some of the projects I worked on in the past
 
 The projects I am currently hosting here are:
 
+
 ![](thumbnails/spiderVentureThumbnail.png)
 
 a Processing 2D game where you take care of a spider. I also made the music.
+
 
 ![](thumbnails/trialThumbnail.png)
 
 a Unity 3D game made for my Games and Play class in 2018.
 
+
 ![](thumbnails/locoThumbnail.png)
 
 a Processing simulation where I try to replicate some of the physics in the game Locoroco using Box2D
 
+
 ![](thumbnails/unBoxingThumbnail.png)
 
 a small p5.js game made for my Games and Play class in 2018.
+
 
 
 # Other Portfolios and Social Accounts:
