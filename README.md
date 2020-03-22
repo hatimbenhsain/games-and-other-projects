@@ -4,13 +4,21 @@ A portfolio repository where I host some of the projects I worked on in the past
 
 The projects I am currently hosting here are:
 
-1. spiderVenture: a Processing 2D game where you take care of a spider. I also made the music.
+![](spiderVentureThumbnail.png)
 
-2. Trial: a Unity 3D game made for my Games and Play class in 2018.
+a Processing 2D game where you take care of a spider. I also made the music.
 
-3. Loco: a Processing simulation where I try to replicate some of the physics in the game Locoroco using Box2D
+![](trialThumbnail.png)
 
-4. UnBoxing: a small p5.js game made for my Games and Play class in 2018.
+a Unity 3D game made for my Games and Play class in 2018.
+
+![](locoThumbnail.png)
+
+a Processing simulation where I try to replicate some of the physics in the game Locoroco using Box2D
+
+![](unBoxingThumbnail.png)
+
+a small p5.js game made for my Games and Play class in 2018.
 
 
 # Other Portfolios and Social Accounts:
