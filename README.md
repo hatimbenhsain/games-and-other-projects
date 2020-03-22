@@ -25,7 +25,7 @@ A Processing 2D game where you take care of a spider. I also made the music.
 ![](thumbnails/trialThumbnail.png)
 
 A Unity 3D game made for my Games and Play class in 2018.
-[Find it here.](/trial)
+[Find it here.](/Trial)
 
 
 
@@ -41,7 +41,7 @@ A Unity sound toy made for my Music and Gameplay class in 2020.
 ![](thumbnails/locoThumbnail.png)
 
 A Processing simulation where I try to replicate some of the physics in the game Locoroco using Box2D.
-[Find it here.](/loco)
+[Find it here.](/Loco)
 
 
 
