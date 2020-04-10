@@ -6,6 +6,20 @@ The projects I am currently hosting here are:
 
 
 
+![](thumbnails/attackOnTheCityThumbnail.png)
+
+A GameMaker 2-player action game about destroying aliens. I made the music with Logic Pro.
+
+
+
+
+![](thumbnails/spyderCupThumbnail.png)
+
+A little Unity 2D rhythm game about squashing spiders. I made the music with CakeWalk Sonar.
+
+
+
+
 ![](thumbnails/escapeThumbnail.png)
 
 A GameMaker project where you play as an angel who has to break their friend out of prison, made in 2020.
