@@ -9,7 +9,7 @@ The projects I am currently hosting here are:
 ![](thumbnails/attackOnTheCityThumbnail.png)
 
 A GameMaker 2-player action game about destroying aliens. I made the music with Logic Pro.
-[Find it here.](/Attack on the City)
+[Find it here.](/Attack%20on%20the%20City)
 
 
 
