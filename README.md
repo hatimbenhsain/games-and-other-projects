@@ -9,6 +9,7 @@ The projects I am currently hosting here are:
 ![](thumbnails/attackOnTheCityThumbnail.png)
 
 A GameMaker 2-player action game about destroying aliens. I made the music with Logic Pro.
+[Find it here.](/Attack on the City)
 
 
 
@@ -16,6 +17,7 @@ A GameMaker 2-player action game about destroying aliens. I made the music with 
 ![](thumbnails/spyderCupThumbnail.png)
 
 A little Unity 2D rhythm game about squashing spiders. I made the music with CakeWalk Sonar.
+[Find it here.](/spyderCup)
 
 
 
