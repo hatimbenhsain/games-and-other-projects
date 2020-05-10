@@ -6,6 +6,14 @@ The projects I am currently hosting here are:
 
 
 
+![](thumbnails/projectOrpheusThumbnail.png)
+
+A GameMaker 2-player narrative music game. I made the music and sound effects with CakeWalk Sonar.
+[Find it here.](/Project%20Orpheus)
+
+
+
+
 ![](thumbnails/attackOnTheCityThumbnail.png)
 
 A GameMaker 2-player action game about destroying aliens. I made the music with Logic Pro.
