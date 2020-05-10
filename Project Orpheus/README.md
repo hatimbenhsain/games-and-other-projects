@@ -1,6 +1,6 @@
 # Project Orpheus
 
-[Watch a playthrough.]
+[Watch a playthrough.](https://youtu.be/52UBFSokOT4)
 
 [Download the exe.](https://drive.google.com/file/d/1btYoECxSsf-j4qLCHEcxVW7PUNvigs-O/view?usp=sharing)
 
