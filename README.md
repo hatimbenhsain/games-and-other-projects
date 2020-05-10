@@ -8,8 +8,16 @@ The projects I am currently hosting here are:
 
 ![](thumbnails/projectOrpheusThumbnail.png)
 
-A GameMaker 2-player narrative music game. I made the music and sound effects with CakeWalk Sonar.
+A GameMaker narrative music game. I made the music and sound effects with CakeWalk Sonar.
 [Find it here.](/Project%20Orpheus)
+
+
+
+
+![](thumbnails/badCardGameThumbnail.png)
+
+A GameMaker card game that breaks when you cheat.
+[Find it here.](/Bad%20Card%20Game)
 
 
 
