@@ -6,6 +6,14 @@ The projects I am currently hosting here are:
 
 
 
+![](thumbnails/spiritGuideThumbnail.png)
+
+A Unity adventure game about helping spirits move on to the other side. I made the music and sound effects with CakeWalk Sonar.
+[Find it here.](https://hatimb00.itch.io/spirit-guide)
+
+
+
+
 ![](thumbnails/projectOrpheusThumbnail.png)
 
 A GameMaker narrative music game. I made the music and sound effects with CakeWalk Sonar.
