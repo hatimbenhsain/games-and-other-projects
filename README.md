@@ -6,6 +6,24 @@ The projects I am currently hosting here are:
 
 
 
+![](thumbnails/knightThumbnail.png)
+
+A Unity Hollow Knight clone in the style of Celeste. I was in charge of the visual direction, the sound design, and some of the code.
+[Find it here.](https://kerby.itch.io/last-celeste-knight)
+
+
+
+
+
+![](thumbnails/madSocksThumbnail.png)
+
+A Unity two-player game about getting lost and found. I was in charge of most of the programming, game design, and some art assets. Made for the GGJ 2021.
+[Find it here.](https://hatimb00.itch.io/mad-socks)
+
+
+
+
+
 ![](thumbnails/spiritGuideThumbnail.png)
 
 A Unity adventure game about helping spirits move on to the other side. I made the music and sound effects with CakeWalk Sonar.
