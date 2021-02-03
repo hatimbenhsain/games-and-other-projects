@@ -15,7 +15,7 @@ A Unity Hollow Knight clone in the style of Celeste. I was in charge of the visu
 
 
 
-![](thumbnails/madSocksThumbnail.png)
+![](thumbnails/madSocksThumbnails.png)
 
 A Unity two-player game about getting lost and found. I was in charge of most of the programming, game design, and some art assets. Made for the GGJ 2021.
 [Find it here.](https://hatimb00.itch.io/mad-socks)
